@@ -5,7 +5,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <div>
-    <table>
+    <table border="1">
       <tr>
         <th>Tanggal</th>
         <th>Kategori</th>
